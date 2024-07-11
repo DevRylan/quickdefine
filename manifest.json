@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Dictionary Extension",
+    "version": "1.0.0",
+    "description": "A Google extension that provides a popup Dictionary.",
+    "permissions": ["activeTab", "storage"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
