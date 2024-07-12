@@ -26,7 +26,7 @@ This Chrome extension allows users to look up the definition and phonetic spelli
 
 1. Clone the repository or download the zip file.
     ```sh
-    git clone https://github.com/yourusername/dictionary-chrome-extension.git
+    git clone https://github.com/rylan0-0/quickdefine
     ```
 
 2. Open Chrome and navigate to `chrome://extensions/`.
