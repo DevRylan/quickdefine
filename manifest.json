@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Dictionary Extension",
+    "name": "QuickDefine",
     "version": "1.0.0",
     "description": "A Google extension that provides a popup Dictionary.",
     "permissions": ["activeTab", "storage"],
